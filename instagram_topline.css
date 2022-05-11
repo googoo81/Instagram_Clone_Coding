@@ -1,0 +1,70 @@
+/* Topline*/
+.Topline {
+    position: fixed;
+    top: 0%;
+    padding:0%;
+    margin:0%;
+    overflow: auto;
+    background-color: white;    
+    width : 1516px;
+    height: 58px;
+    border: 1.5px solid #EEEDED;
+    z-index: 100;
+}
+
+.logo {
+    position:fixed;
+    left: 20%; 
+    top: 2.5%;
+    z-index: 100;
+}
+
+.searchinput{
+    position:fixed;
+    right: 42%; 
+    top: 1.2%;
+    z-index: 100;
+}
+
+.homelogo{
+    position:fixed; 
+    right: 34.5%; 
+    top: 0.4%;
+}
+
+.dmlogo{
+    position:fixed;
+    right: 32.2%; 
+    top: 2.2%;
+}
+
+.addlogo{
+    position:fixed;
+    right: 29%; 
+    top: 2.2%;
+}
+
+.compasslogo{
+    position:fixed;
+    right: 26%; 
+    top: 2.2%;
+}
+
+.heartlogo{
+    position:fixed;
+    right: 23%;
+    top: 2.1%;
+}
+
+.my_profile{
+    position:fixed;
+    right: 20%; 
+    top: 1.9%;
+}
+
+.usingexplain{
+    position:fixed;
+    top: 13%;
+    right: 22%
+}
+/*End Topline*/
